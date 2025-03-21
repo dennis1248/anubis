@@ -11,6 +11,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- Whitelist MojeekBot in botPolicies
+
 ## v1.14.0
 
 Livia sas Junius
