@@ -11,6 +11,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- botPolicies regex has been cleaned up
+
 ## v1.14.1
 
 Livia sas Junius: Echo 1
