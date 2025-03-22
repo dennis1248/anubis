@@ -12,7 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 - Whitelist MojeekBot in botPolicies [#47](https://github.com/TecharoHQ/anubis/issues/47)
-- botPolicies regex has been cleaned up
+- botPolicies regex has been cleaned up [#66](https://github.com/TecharoHQ/anubis/pull/66)
 
 ## v1.14.1
 
