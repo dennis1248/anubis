@@ -11,6 +11,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- Fixed and clarified installation instructions
+
+## v1.14.2
+
+Livia sas Junius: Echo 2
+
+- Remove default RSS reader rule as it may allow for a targeted attack against rails apps
+  [#67](https://github.com/TecharoHQ/anubis/pull/67)
 - Whitelist MojeekBot in botPolicies [#47](https://github.com/TecharoHQ/anubis/issues/47)
 - botPolicies regex has been cleaned up [#66](https://github.com/TecharoHQ/anubis/pull/66)
 
